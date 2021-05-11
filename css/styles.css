@@ -17,7 +17,7 @@ body {
 }
 /*===================END COMPONENTS================*/
 
-/*==================HEADER SECTION======================*/
+/*==================HEADER======================*/
 .logo-link {
   font-family: var(--secondary-font);
   font-weight: 700;
@@ -50,7 +50,7 @@ body {
 .contact-item-link:focus {
   color: var(--accent-color);
 }
-/*=======================END HEADER SECTION==============*/
+/*=======================END HEADER==============*/
 
 /*==================HERO SECTION STUDIO=============*/
 .main-title {
@@ -152,7 +152,7 @@ body {
 }
 /*============END ABOUT US SECTION STUDIO PORTFOLIO=======*/
 
-/*==================FOOTER SECTION STUDIO PORTFOLIO===============*/
+/*==================FOOTER STUDIO PORTFOLIO===============*/
 .address-list-item {
   font-size: 14px;
   font-style: normal;
@@ -163,4 +163,4 @@ body {
 .address-link:hover,
 .address-link:focus {
 }
-/*================END FOOTER SECTION STUDIO PORTFOLIO==============*/
+/*================END FOOTER STUDIO PORTFOLIO==============*/
